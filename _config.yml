@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Allen Hu / Homepage"
+title                    : "Allen Hu"
 title_separator          : "-"
 name                     : &name "Allen Hu"
 description              : &description "Keep Moving"
