@@ -1,7 +1,7 @@
 ---
 title: "2023 Projects"
 collection: Allen's Project
-permalink: /publication/Ultra
+permalink: /Project/Ultra
 excerpt: 'This paper is showing what project i have took charger of'
 date: 2015-10-01
 venue: 'Journal 1'
